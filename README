@@ -1,5 +1,7 @@
 AXI processor link.
 
+This repo contains a PCIe driver for the AJIT processor FPGA model.
+
 Notes:-
 
 Addition of Debug API
