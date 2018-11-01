@@ -1,0 +1,21 @@
+AXI processor link.
+
+This repo contains a PCIe driver for the AJIT processor FPGA model.
+
+Notes:-
+
+Addition of Debug API
+
+	- Added support for high level functions which initialize and close the AXI link.
+	- Added support for sending and recieving 64 bit numbers to/from the FPGA model.
+	- Added commands for compiling it into a library in Makefile.
+	- Place of inclusion of headers needs to be checked.
+	- Functions like write_to_dram, write_to_serial etc. can be added now.
+
+Change in API
+
+	- For FPGA id-ing an FPGA struct has been created which holds all the necessary parameters/details for it.
+	- Passing around the struct pointer is more convenient than just passing around the id and thus I have changed the API.
+	- Now the function open_fpga() takes the input as a name string and and the address of the resource file.
+	  The function now returns an FPGA* i.e. a pointer to the new FPGA device and also calls a new_fpga() function which initializes the struct.
+	- Now close_fpga() takes just the FPGA pointer as input, closes the device through it, frees its memory pointer and returns the close status.

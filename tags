@@ -1,0 +1,304 @@
+	debug_driver.vim	/^map  "+yy$/;"	m
+S	debug_driver.vim	/^imap S <Plug>ISurround$/;"	m
+s	debug_driver.vim	/^imap s <Plug>Isurround$/;"	m
+	debug_driver.vim	/^imap  <Plug>Isurround$/;"	m
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+0	debug_driver.vim	/^normal! 0$/;"	m
+<F10>	debug_driver.vim	/^map <F10> :w$/;"	m
+<Plug>(easymotion-B)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-B) :call EasyMotion#WBW(0,1)$/;"	m
+<Plug>(easymotion-B)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-B) :call EasyMotion#WBW(0,1)$/;"	m
+<Plug>(easymotion-E)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-E) :call EasyMotion#EW(0,0)$/;"	m
+<Plug>(easymotion-E)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-E) :call EasyMotion#EW(0,0)$/;"	m
+<Plug>(easymotion-F)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-F) :call EasyMotion#S(1,0,1)$/;"	m
+<Plug>(easymotion-F)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-F) :call EasyMotion#S(1,0,1)$/;"	m
+<Plug>(easymotion-F2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-F2) :call EasyMotion#S(2,0,1)$/;"	m
+<Plug>(easymotion-F2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-F2) :call EasyMotion#S(2,0,1)$/;"	m
+<Plug>(easymotion-Fl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Fl) :call EasyMotion#SL(1,0,1)$/;"	m
+<Plug>(easymotion-Fl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Fl) :call EasyMotion#SL(1,0,1)$/;"	m
+<Plug>(easymotion-Fl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Fl2) :call EasyMotion#SL(2,0,1)$/;"	m
+<Plug>(easymotion-Fl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Fl2) :call EasyMotion#SL(2,0,1)$/;"	m
+<Plug>(easymotion-Fln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Fln) :call EasyMotion#SL(-1,0,1)$/;"	m
+<Plug>(easymotion-Fln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Fln) :call EasyMotion#SL(-1,0,1)$/;"	m
+<Plug>(easymotion-Fn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Fn) :call EasyMotion#S(-1,0,1)$/;"	m
+<Plug>(easymotion-Fn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Fn) :call EasyMotion#S(-1,0,1)$/;"	m
+<Plug>(easymotion-N)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-N) :call EasyMotion#Search(0,1,0)$/;"	m
+<Plug>(easymotion-N)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-N) :call EasyMotion#Search(0,1,0)$/;"	m
+<Plug>(easymotion-T)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-T) :call EasyMotion#T(1,0,1)$/;"	m
+<Plug>(easymotion-T)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-T) :call EasyMotion#T(1,0,1)$/;"	m
+<Plug>(easymotion-T2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-T2) :call EasyMotion#T(2,0,1)$/;"	m
+<Plug>(easymotion-T2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-T2) :call EasyMotion#T(2,0,1)$/;"	m
+<Plug>(easymotion-Tl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Tl) :call EasyMotion#TL(1,0,1)$/;"	m
+<Plug>(easymotion-Tl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Tl) :call EasyMotion#TL(1,0,1)$/;"	m
+<Plug>(easymotion-Tl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Tl2) :call EasyMotion#TL(2,0,1)$/;"	m
+<Plug>(easymotion-Tl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Tl2) :call EasyMotion#TL(2,0,1)$/;"	m
+<Plug>(easymotion-Tln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Tln) :call EasyMotion#TL(-1,0,1)$/;"	m
+<Plug>(easymotion-Tln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Tln) :call EasyMotion#TL(-1,0,1)$/;"	m
+<Plug>(easymotion-Tn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-Tn) :call EasyMotion#T(-1,0,1)$/;"	m
+<Plug>(easymotion-Tn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-Tn) :call EasyMotion#T(-1,0,1)$/;"	m
+<Plug>(easymotion-W)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-W) :call EasyMotion#WBW(0,0)$/;"	m
+<Plug>(easymotion-W)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-W) :call EasyMotion#WBW(0,0)$/;"	m
+<Plug>(easymotion-activate)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-activate) :call EasyMotion#activate(0)$/;"	m
+<Plug>(easymotion-activate)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-activate) :call EasyMotion#activate(0)$/;"	m
+<Plug>(easymotion-b)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-b) :call EasyMotion#WB(0,1)$/;"	m
+<Plug>(easymotion-b)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-b) :call EasyMotion#WB(0,1)$/;"	m
+<Plug>(easymotion-bd-E)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-E) :call EasyMotion#EW(0,2)$/;"	m
+<Plug>(easymotion-bd-E)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-E) :call EasyMotion#EW(0,2)$/;"	m
+<Plug>(easymotion-bd-W)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-W) :call EasyMotion#WBW(0,2)$/;"	m
+<Plug>(easymotion-bd-W)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-W) :call EasyMotion#WBW(0,2)$/;"	m
+<Plug>(easymotion-bd-e)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-e) :call EasyMotion#E(0,2)$/;"	m
+<Plug>(easymotion-bd-e)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-e) :call EasyMotion#E(0,2)$/;"	m
+<Plug>(easymotion-bd-el)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-el) :call EasyMotion#EL(0,2)$/;"	m
+<Plug>(easymotion-bd-el)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-el) :call EasyMotion#EL(0,2)$/;"	m
+<Plug>(easymotion-bd-f)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-f) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-bd-f)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-f) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-bd-f2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-f2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-bd-f2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-f2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-fl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-fl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-fl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-fl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-fln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-fn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-jk)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-jk) :call EasyMotion#JK(0,2)$/;"	m
+<Plug>(easymotion-bd-jk)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-jk) :call EasyMotion#JK(0,2)$/;"	m
+<Plug>(easymotion-bd-n)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-n) :call EasyMotion#Search(0,2,0)$/;"	m
+<Plug>(easymotion-bd-n)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-n) :call EasyMotion#Search(0,2,0)$/;"	m
+<Plug>(easymotion-bd-t)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-t) :call EasyMotion#T(1,0,2)$/;"	m
+<Plug>(easymotion-bd-t)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-t) :call EasyMotion#T(1,0,2)$/;"	m
+<Plug>(easymotion-bd-t2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-t2) :call EasyMotion#T(2,0,2)$/;"	m
+<Plug>(easymotion-bd-t2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-t2) :call EasyMotion#T(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tl) :call EasyMotion#TL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-tl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-tl) :call EasyMotion#TL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-tl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tl2) :call EasyMotion#TL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-tl2) :call EasyMotion#TL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tln) :call EasyMotion#TL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-tln) :call EasyMotion#TL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tn) :call EasyMotion#T(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-tn) :call EasyMotion#T(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-w)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-w) :call EasyMotion#WB(0,2)$/;"	m
+<Plug>(easymotion-bd-w)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-w) :call EasyMotion#WB(0,2)$/;"	m
+<Plug>(easymotion-bd-wl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bd-wl) :call EasyMotion#WBL(0,2)$/;"	m
+<Plug>(easymotion-bd-wl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bd-wl) :call EasyMotion#WBL(0,2)$/;"	m
+<Plug>(easymotion-bl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-bl) :call EasyMotion#WBL(0,1)$/;"	m
+<Plug>(easymotion-bl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-bl) :call EasyMotion#WBL(0,1)$/;"	m
+<Plug>(easymotion-dotrepeat)	debug_driver.vim	/^noremap <silent> <Plug>(easymotion-dotrepeat) :call EasyMotion#DotRepeat()$/;"	m
+<Plug>(easymotion-e)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-e) :call EasyMotion#E(0,0)$/;"	m
+<Plug>(easymotion-e)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-e) :call EasyMotion#E(0,0)$/;"	m
+<Plug>(easymotion-el)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-el) :call EasyMotion#EL(0,0)$/;"	m
+<Plug>(easymotion-el)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-el) :call EasyMotion#EL(0,0)$/;"	m
+<Plug>(easymotion-eol-bd-jk)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-eol-bd-jk) :call EasyMotion#Eol(0,2)$/;"	m
+<Plug>(easymotion-eol-bd-jk)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-eol-bd-jk) :call EasyMotion#Eol(0,2)$/;"	m
+<Plug>(easymotion-eol-j)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-eol-j) :call EasyMotion#Eol(0,0)$/;"	m
+<Plug>(easymotion-eol-j)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-eol-j) :call EasyMotion#Eol(0,0)$/;"	m
+<Plug>(easymotion-eol-k)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-eol-k) :call EasyMotion#Eol(0,1)$/;"	m
+<Plug>(easymotion-eol-k)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-eol-k) :call EasyMotion#Eol(0,1)$/;"	m
+<Plug>(easymotion-f)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-f) :call EasyMotion#S(1,0,0)$/;"	m
+<Plug>(easymotion-f)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-f) :call EasyMotion#S(1,0,0)$/;"	m
+<Plug>(easymotion-f2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-f2) :call EasyMotion#S(2,0,0)$/;"	m
+<Plug>(easymotion-f2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-f2) :call EasyMotion#S(2,0,0)$/;"	m
+<Plug>(easymotion-fl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-fl) :call EasyMotion#SL(1,0,0)$/;"	m
+<Plug>(easymotion-fl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-fl) :call EasyMotion#SL(1,0,0)$/;"	m
+<Plug>(easymotion-fl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-fl2) :call EasyMotion#SL(2,0,0)$/;"	m
+<Plug>(easymotion-fl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-fl2) :call EasyMotion#SL(2,0,0)$/;"	m
+<Plug>(easymotion-fln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-fln) :call EasyMotion#SL(-1,0,0)$/;"	m
+<Plug>(easymotion-fln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-fln) :call EasyMotion#SL(-1,0,0)$/;"	m
+<Plug>(easymotion-fn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-fn) :call EasyMotion#S(-1,0,0)$/;"	m
+<Plug>(easymotion-fn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-fn) :call EasyMotion#S(-1,0,0)$/;"	m
+<Plug>(easymotion-gE)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-gE) :call EasyMotion#EW(0,1)$/;"	m
+<Plug>(easymotion-gE)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-gE) :call EasyMotion#EW(0,1)$/;"	m
+<Plug>(easymotion-ge)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-ge) :call EasyMotion#E(0,1)$/;"	m
+<Plug>(easymotion-ge)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-ge) :call EasyMotion#E(0,1)$/;"	m
+<Plug>(easymotion-gel)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-gel) :call EasyMotion#EL(0,1)$/;"	m
+<Plug>(easymotion-gel)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-gel) :call EasyMotion#EL(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-b)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-b) :call EasyMotion#WBK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-b)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-b) :call EasyMotion#WBK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-bd-e)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-bd-e) :call EasyMotion#EK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-e)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-bd-e) :call EasyMotion#EK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-w)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-bd-w) :call EasyMotion#WBK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-w)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-bd-w) :call EasyMotion#WBK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-e)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-e) :call EasyMotion#EK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-e)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-e) :call EasyMotion#EK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-ge)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-ge) :call EasyMotion#EK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-ge)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-ge) :call EasyMotion#EK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-w)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-w) :call EasyMotion#WBK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-w)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-w) :call EasyMotion#WBK(0,0)$/;"	m
+<Plug>(easymotion-j)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-j) :call EasyMotion#JK(0,0)$/;"	m
+<Plug>(easymotion-j)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-j) :call EasyMotion#JK(0,0)$/;"	m
+<Plug>(easymotion-jumptoanywhere)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-jumptoanywhere) :call EasyMotion#JumpToAnywhere(0,2)$/;"	m
+<Plug>(easymotion-jumptoanywhere)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-jumptoanywhere) :call EasyMotion#JumpToAnywhere(0,2)$/;"	m
+<Plug>(easymotion-k)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-k) :call EasyMotion#JK(0,1)$/;"	m
+<Plug>(easymotion-k)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-k) :call EasyMotion#JK(0,1)$/;"	m
+<Plug>(easymotion-lineanywhere)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-lineanywhere) :call EasyMotion#LineAnywhere(0,2)$/;"	m
+<Plug>(easymotion-lineanywhere)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-lineanywhere) :call EasyMotion#LineAnywhere(0,2)$/;"	m
+<Plug>(easymotion-linebackward)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-linebackward) :call EasyMotion#LineAnywhere(0,1)$/;"	m
+<Plug>(easymotion-linebackward)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-linebackward) :call EasyMotion#LineAnywhere(0,1)$/;"	m
+<Plug>(easymotion-lineforward)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-lineforward) :call EasyMotion#LineAnywhere(0,0)$/;"	m
+<Plug>(easymotion-lineforward)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-lineforward) :call EasyMotion#LineAnywhere(0,0)$/;"	m
+<Plug>(easymotion-n)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-n) :call EasyMotion#Search(0,0,0)$/;"	m
+<Plug>(easymotion-n)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-n) :call EasyMotion#Search(0,0,0)$/;"	m
+<Plug>(easymotion-next)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-next) :call EasyMotion#NextPrevious(0,0)$/;"	m
+<Plug>(easymotion-next)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-next) :call EasyMotion#NextPrevious(0,0)$/;"	m
+<Plug>(easymotion-overwin-f)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-f) :call EasyMotion#OverwinF(1)$/;"	m
+<Plug>(easymotion-overwin-f2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-f2) :call EasyMotion#OverwinF(2)$/;"	m
+<Plug>(easymotion-overwin-line)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-line) :call EasyMotion#overwin#line()$/;"	m
+<Plug>(easymotion-overwin-w)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-w) :call EasyMotion#overwin#w()$/;"	m
+<Plug>(easymotion-prefix)B	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)B <Plug>(easymotion-B)$/;"	m
+<Plug>(easymotion-prefix)E	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)E <Plug>(easymotion-E)$/;"	m
+<Plug>(easymotion-prefix)F	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)F <Plug>(easymotion-F)$/;"	m
+<Plug>(easymotion-prefix)N	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)N <Plug>(easymotion-N)$/;"	m
+<Plug>(easymotion-prefix)T	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)T <Plug>(easymotion-T)$/;"	m
+<Plug>(easymotion-prefix)W	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)W <Plug>(easymotion-W)$/;"	m
+<Plug>(easymotion-prefix)b	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)b <Plug>(easymotion-b)$/;"	m
+<Plug>(easymotion-prefix)e	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)e <Plug>(easymotion-e)$/;"	m
+<Plug>(easymotion-prefix)f	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)f <Plug>(easymotion-f)$/;"	m
+<Plug>(easymotion-prefix)gE	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)gE <Plug>(easymotion-gE)$/;"	m
+<Plug>(easymotion-prefix)ge	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)ge <Plug>(easymotion-ge)$/;"	m
+<Plug>(easymotion-prefix)j	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)j <Plug>(easymotion-j)$/;"	m
+<Plug>(easymotion-prefix)k	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)k <Plug>(easymotion-k)$/;"	m
+<Plug>(easymotion-prefix)n	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)n <Plug>(easymotion-n)$/;"	m
+<Plug>(easymotion-prefix)s	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)s <Plug>(easymotion-s)$/;"	m
+<Plug>(easymotion-prefix)t	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)t <Plug>(easymotion-t)$/;"	m
+<Plug>(easymotion-prefix)w	debug_driver.vim	/^map <silent> <Plug>(easymotion-prefix)w <Plug>(easymotion-w)$/;"	m
+<Plug>(easymotion-prev)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-prev) :call EasyMotion#NextPrevious(0,1)$/;"	m
+<Plug>(easymotion-prev)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-prev) :call EasyMotion#NextPrevious(0,1)$/;"	m
+<Plug>(easymotion-repeat)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-repeat) :call EasyMotion#Repeat(0)$/;"	m
+<Plug>(easymotion-repeat)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-repeat) :call EasyMotion#Repeat(0)$/;"	m
+<Plug>(easymotion-s)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-s) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-s)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-s) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-s2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-s2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-s2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-s2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-sl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-sl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-sl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-sl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-sln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-sln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-sn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-sn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-sol-bd-jk)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sol-bd-jk) :call EasyMotion#Sol(0,2)$/;"	m
+<Plug>(easymotion-sol-bd-jk)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sol-bd-jk) :call EasyMotion#Sol(0,2)$/;"	m
+<Plug>(easymotion-sol-j)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sol-j) :call EasyMotion#Sol(0,0)$/;"	m
+<Plug>(easymotion-sol-j)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sol-j) :call EasyMotion#Sol(0,0)$/;"	m
+<Plug>(easymotion-sol-k)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-sol-k) :call EasyMotion#Sol(0,1)$/;"	m
+<Plug>(easymotion-sol-k)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-sol-k) :call EasyMotion#Sol(0,1)$/;"	m
+<Plug>(easymotion-t)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-t) :call EasyMotion#T(1,0,0)$/;"	m
+<Plug>(easymotion-t)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-t) :call EasyMotion#T(1,0,0)$/;"	m
+<Plug>(easymotion-t2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-t2) :call EasyMotion#T(2,0,0)$/;"	m
+<Plug>(easymotion-t2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-t2) :call EasyMotion#T(2,0,0)$/;"	m
+<Plug>(easymotion-tl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-tl) :call EasyMotion#TL(1,0,0)$/;"	m
+<Plug>(easymotion-tl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-tl) :call EasyMotion#TL(1,0,0)$/;"	m
+<Plug>(easymotion-tl2)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-tl2) :call EasyMotion#TL(2,0,0)$/;"	m
+<Plug>(easymotion-tl2)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-tl2) :call EasyMotion#TL(2,0,0)$/;"	m
+<Plug>(easymotion-tln)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-tln) :call EasyMotion#TL(-1,0,0)$/;"	m
+<Plug>(easymotion-tln)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-tln) :call EasyMotion#TL(-1,0,0)$/;"	m
+<Plug>(easymotion-tn)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-tn) :call EasyMotion#T(-1,0,0)$/;"	m
+<Plug>(easymotion-tn)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-tn) :call EasyMotion#T(-1,0,0)$/;"	m
+<Plug>(easymotion-vim-N)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-vim-N) :call EasyMotion#Search(0,1,1)$/;"	m
+<Plug>(easymotion-vim-N)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-vim-N) :call EasyMotion#Search(0,1,1)$/;"	m
+<Plug>(easymotion-vim-n)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-vim-n) :call EasyMotion#Search(0,0,1)$/;"	m
+<Plug>(easymotion-vim-n)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-vim-n) :call EasyMotion#Search(0,0,1)$/;"	m
+<Plug>(easymotion-w)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-w) :call EasyMotion#WB(0,0)$/;"	m
+<Plug>(easymotion-w)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-w) :call EasyMotion#WB(0,0)$/;"	m
+<Plug>(easymotion-wl)	debug_driver.vim	/^nnoremap <silent> <Plug>(easymotion-wl) :call EasyMotion#WBL(0,0)$/;"	m
+<Plug>(easymotion-wl)	debug_driver.vim	/^onoremap <silent> <Plug>(easymotion-wl) :call EasyMotion#WBL(0,0)$/;"	m
+<Plug>NERDCommenterAlignBoth	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterAlignBoth :call NERDComment("n", "AlignBoth")$/;"	m
+<Plug>NERDCommenterAlignLeft	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterAlignLeft :call NERDComment("n", "AlignLeft")$/;"	m
+<Plug>NERDCommenterAppend	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterAppend :call NERDComment("n", "Append")$/;"	m
+<Plug>NERDCommenterComment	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterComment :call NERDComment("n", "Comment")$/;"	m
+<Plug>NERDCommenterInsert	debug_driver.vim	/^inoremap <silent> <Plug>NERDCommenterInsert  <BS>:call NERDComment('i', "insert")$/;"	m
+<Plug>NERDCommenterInvert	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterInvert :call NERDComment("n", "Invert")$/;"	m
+<Plug>NERDCommenterMinimal	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterMinimal :call NERDComment("n", "Minimal")$/;"	m
+<Plug>NERDCommenterNested	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterNested :call NERDComment("n", "Nested")$/;"	m
+<Plug>NERDCommenterSexy	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterSexy :call NERDComment("n", "Sexy")$/;"	m
+<Plug>NERDCommenterToEOL	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterToEOL :call NERDComment("n", "ToEOL")$/;"	m
+<Plug>NERDCommenterToggle	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterToggle :call NERDComment("n", "Toggle")$/;"	m
+<Plug>NERDCommenterUncomment	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterUncomment :call NERDComment("n", "Uncomment")$/;"	m
+<Plug>NERDCommenterYank	debug_driver.vim	/^nnoremap <silent> <Plug>NERDCommenterYank :call NERDComment("n", "Yank")$/;"	m
+<Plug>NetrwBrowseX	debug_driver.vim	/^nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())$/;"	m
+<Plug>NetrwBrowseXVis	debug_driver.vim	/^vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()$/;"	m
+<Plug>SurroundRepeat	debug_driver.vim	/^nnoremap <silent> <Plug>SurroundRepeat .$/;"	m
+AXI_TO_FIFO_DATA_REGISTER_1	include/hardware_description.h	12;"	d
+AXI_TO_FIFO_DATA_REGISTER_2	include/hardware_description.h	14;"	d
+AXI_TO_FIFO_START_REGISTER	include/hardware_description.h	6;"	d
+AXI_TO_FIFO_SUCCESS_REGISTER	include/hardware_description.h	22;"	d
+FIFO_TO_AXI_DATA_REGISTER_1	include/hardware_description.h	16;"	d
+FIFO_TO_AXI_DATA_REGISTER_2	include/hardware_description.h	18;"	d
+FIFO_TO_AXI_START_REGISTER	include/hardware_description.h	8;"	d
+FIFO_TO_AXI_SUCCESS_REGISTER	include/hardware_description.h	24;"	d
+FPGA	include/processor_link_internal.h	/^typedef struct FPGA_device FPGA;$/;"	t	typeref:struct:FPGA_device
+FPGA_device	include/processor_link_internal.h	/^struct FPGA_device{$/;"	s
+HARDWARE_DESCRIPTION	Makefile	/^HARDWARE_DESCRIPTION = hardware_description$/;"	m
+INTERNAL	Makefile	/^INTERNAL = processor_link_internal$/;"	m
+INTERNAL_DEPENDENCIES	Makefile	/^INTERNAL_DEPENDENCIES = $(INTERNAL).c $(INTERNAL).h$/;"	m
+MAP_MASK	include/processor_link.h	18;"	d
+MAP_MASK	include/processor_link_internal.h	70;"	d
+MAP_SIZE	include/processor_link.h	17;"	d
+MAP_SIZE	include/processor_link_internal.h	69;"	d
+OUTPUT	Makefile	/^OUTPUT = processor_link$/;"	m
+OUTPUT_DEPENDENCIES	Makefile	/^OUTPUT_DEPENDENCIES = $(OUTPUT).h $(HARDWARE_DESCRIPTION).h $(INTERNAL) $/;"	m
+PRINT_ERROR	include/processor_link_internal.h	19;"	d
+RAM_BASE_ADDRESS	include/processor_link_internal.h	27;"	d
+SYS_FILE	include/processor_link_internal.h	17;"	d
+SessionLoad	debug_driver.vim	/^let SessionLoad = 1$/;"	v
+\\	debug_driver.vim	/^map \\\\ <Plug>(easymotion-prefix)$/;"	m
+\c	debug_driver.vim	/^nmap \\c  <Plug>NERDCommenterToggle$/;"	m
+\c$	debug_driver.vim	/^nmap \\c$ <Plug>NERDCommenterToEOL$/;"	m
+\cA	debug_driver.vim	/^nmap \\cA <Plug>NERDCommenterAppend$/;"	m
+\ca	debug_driver.vim	/^nmap \\ca <Plug>NERDCommenterAltDelims$/;"	m
+\cb	debug_driver.vim	/^nmap \\cb <Plug>NERDCommenterAlignBoth$/;"	m
+\cc	debug_driver.vim	/^nmap \\cc <Plug>NERDCommenterComment$/;"	m
+\ci	debug_driver.vim	/^nmap \\ci <Plug>NERDCommenterInvert$/;"	m
+\cl	debug_driver.vim	/^nmap \\cl <Plug>NERDCommenterAlignLeft$/;"	m
+\cm	debug_driver.vim	/^nmap \\cm <Plug>NERDCommenterMinimal$/;"	m
+\cn	debug_driver.vim	/^nmap \\cn <Plug>NERDCommenterNested$/;"	m
+\cs	debug_driver.vim	/^nmap \\cs <Plug>NERDCommenterSexy$/;"	m
+\cu	debug_driver.vim	/^nmap \\cu <Plug>NERDCommenterUncomment$/;"	m
+\cy	debug_driver.vim	/^nmap \\cy <Plug>NERDCommenterYank$/;"	m
+\w\i	debug_driver.vim	/^nmap <silent> \\w\\i <Plug>VimwikiDiaryGenerateLinks$/;"	m
+\w\m	debug_driver.vim	/^nmap <silent> \\w\\m <Plug>VimwikiMakeTomorrowDiaryNote$/;"	m
+\w\t	debug_driver.vim	/^nmap <silent> \\w\\t <Plug>VimwikiTabMakeDiaryNote$/;"	m
+\w\w	debug_driver.vim	/^nmap <silent> \\w\\w <Plug>VimwikiMakeDiaryNote$/;"	m
+\w\y	debug_driver.vim	/^nmap <silent> \\w\\y <Plug>VimwikiMakeYesterdayDiaryNote$/;"	m
+\wi	debug_driver.vim	/^nmap <silent> \\wi <Plug>VimwikiDiaryIndex$/;"	m
+\ws	debug_driver.vim	/^nmap <silent> \\ws <Plug>VimwikiUISelect$/;"	m
+\wt	debug_driver.vim	/^nmap <silent> \\wt <Plug>VimwikiTabIndex$/;"	m
+\ww	debug_driver.vim	/^nmap <silent> \\ww <Plug>VimwikiIndex$/;"	m
+_hardware_description_h___	include/hardware_description.h	2;"	d
+_processor_link_h___	include/processor_link.h	2;"	d
+_processor_link_internal_h___	include/processor_link_internal.h	2;"	d
+cS	debug_driver.vim	/^nmap cS <Plug>CSurround$/;"	m
+close_axi_link	src/processor_link.c	/^int close_axi_link(FPGA* fpga_device)$/;"	f
+close_fpga	src/processor_link_internal.c	/^int close_fpga( FPGA* fpga_device)$/;"	f
+cs	debug_driver.vim	/^nmap cs <Plug>Csurround$/;"	m
+ds	debug_driver.vim	/^nmap ds <Plug>Dsurround$/;"	m
+fd	include/processor_link_internal.h	/^	int fd;$/;"	m	struct:FPGA_device
+fpga_axi_read	src/processor_link_internal.c	/^int fpga_axi_read(FPGA* fpga_device, uint32_t addr,  uint32_t *data)$/;"	f
+fpga_axi_write	src/processor_link_internal.c	/^int fpga_axi_write(FPGA* fpga_device, uint32_t addr, uint32_t data)$/;"	f
+gx	debug_driver.vim	/^nmap gx <Plug>NetrwBrowseX$/;"	m
+gx	debug_driver.vim	/^vmap gx <Plug>NetrwBrowseXVis$/;"	m
+initialize_axi_link	src/processor_link.c	/^FPGA* initialize_axi_link(char* name, char* resource_file)$/;"	f
+map_base	include/processor_link_internal.h	/^	void* map_base;$/;"	m	struct:FPGA_device
+name	include/processor_link_internal.h	/^	char* name;$/;"	m	struct:FPGA_device
+new_fpga	include/processor_link_internal.h	/^FPGA* new_fpga(char* fpga_name, char* resource_file)$/;"	f
+open_fpga	src/processor_link_internal.c	/^FPGA* open_fpga (char* name, char* resource_file)$/;"	f
+recv_u64_from_processor	src/processor_link.c	/^int recv_u64_from_processor(FPGA* fpga_device, uint64_t* r_word)$/;"	f
+resource_file	include/processor_link_internal.h	/^	char* resource_file;$/;"	m	struct:FPGA_device
+s:cpo_save	debug_driver.vim	/^let s:cpo_save=&cpo$/;"	v
+s:l	debug_driver.vim	/^let s:l = 1 - ((0 * winheight(0) + 21) \/ 42)$/;"	v
+s:so_save	debug_driver.vim	/^let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0$/;"	v
+s:sx	debug_driver.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	debug_driver.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+send_u64_to_processor	src/processor_link.c	/^int send_u64_to_processor(FPGA* fpga_device ,uint64_t* s_word)$/;"	f
+yS	debug_driver.vim	/^nmap yS <Plug>YSurround$/;"	m
+ySS	debug_driver.vim	/^nmap ySS <Plug>YSsurround$/;"	m
+ySs	debug_driver.vim	/^nmap ySs <Plug>YSsurround$/;"	m
+ys	debug_driver.vim	/^nmap ys <Plug>Ysurround$/;"	m
+yss	debug_driver.vim	/^nmap yss <Plug>Yssurround$/;"	m
+zt	debug_driver.vim	/^normal! zt$/;"	m
